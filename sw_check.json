@@ -7,6 +7,18 @@
         "FScan",
         "Exocad"
     ],
+
+    "replacement_mappings": {
+        "DentalLauncher": ["IntraoralScan.exe","DentalDesignAppLogic.exe"],
+        "FSLauncher": "FScan.exe",
+        "DSLauncher": "DentalScan.exe"
+    },
+
+
+    
+
+
+
     "sw_check": [
         "7-zip",
         "NordVPN",
