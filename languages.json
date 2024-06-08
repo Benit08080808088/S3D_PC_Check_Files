@@ -1,0 +1,187 @@
+{
+    "English": {
+        "Gui_Header": "Shining3D System Check",
+        "windows_info":["PC OS Information:\n ", "\nVersion Number:\n "],
+        "windows_info_tooltip": "Recommend Windows 10/11 Pro \nInstall latest Windows Updates",
+        "update_button":"Open Windows Update",
+        "update_button_tooltip":"Click to open updates page. \nInstall latest updates",
+        "proc_info":"Processor Information:\n",
+        "proc_info_tooltip":"Ensure processor is capable of running the software",
+        "storage_info":["Storage Information:\nTotal Space: ","Free Space: "],
+        "storage_info_tooltip":"Shows the used and free space available on the C: Drive.",
+        "ram_info":"RAM Information:\nSize: ",
+        "ram_info_tooltip":"Ensure RAM size is suffecient to run software",
+        "power_plan_button":"Open Power Plan",
+        "power_plan_tooltip":"Ensure settings are optimized for scannning",
+        "device_manager_button":"Open Device Manager",
+        "device_manager_tooltip":"Open to ensure devices are detected",
+        "display_adap":["Description: ","Version:","Date: ","Display Adapter Information: "],
+        "display_adap_tooltip":"Graphics card information.\nEnsure recent drivers are installed.",
+        "nvidia_button":"Open NVIDIA",
+        "nvidia_button_tooltip":"Open NVIDIA webpage. \nSelect drivers for designated \ngraphics card.",
+        "graphics_button":"Open Graphics",
+        "graphics_button_tooltip":"Open Graphics Settings. \nEnsure softwares are set to High Performnace Plan.",
+
+
+        "firewall_status":["Profile:","Status:","Firewall Status:"],
+        "firewall_tooltip":"Ensure firewalls are turned off.\nCan impede scanning process ",
+        "firewall_button":"Open Firewalls",
+        "firewall_button_tooltip":"Open and change Firewall settings if needed.",
+        "quick_scan":"Program Scan:\n\n",
+        "quick_scan_tooltip":"Uninstall antivirus and VPN. \nCan impede scanning and device detection.",
+        "refresh_button":"Refresh PC Information",
+        "refresh_button_tooltip":"Refresh PC information after changes occured.",
+
+        "software_gui":"Shining3D Software Check",
+
+        "support_gui":"Shining3D Support"
+
+
+
+        
+
+
+    
+    
+    },
+
+    "Español": {  
+    "Gui_Header": "Verificación del Sistema Shining3D",
+    "windows_info": ["Información del SO de la PC:\n ", "\nNúmero de Versión:\n "],
+    "windows_info_tooltip": "Se recomienda Windows 10/11 Pro \nInstale las últimas actualizaciones de Windows",
+    "update_button": "Abrir Actualizaciones de Windows",
+    "update_button_tooltip": "Haga clic para abrir la página de actualizaciones. \nInstale las últimas actualizaciones",
+    "proc_info": "Información del Procesador:\n",
+    "proc_info_tooltip": "Asegúrese de que el procesador sea capaz de ejecutar el software",
+    "storage_info": ["Información de Almacenamiento:\nEspacio Total: ", "Espacio Libre: "],
+    "storage_info_tooltip": "Muestra el espacio utilizado y libre disponible en la unidad C:.",
+    "ram_info": "Información de RAM:\nTamaño: ",
+    "ram_info_tooltip": "Asegúrese de que el tamaño de la RAM sea suficiente para ejecutar el software",
+    "power_plan_button": "Abrir Plan de Energía",
+    "power_plan_tooltip": "Asegúrese de que la configuración esté optimizada para la exploración",
+    "device_manager_button": "Abrir Administrador de Dispositivos",
+    "device_manager_tooltip": "Abierto para asegurarse de que los dispositivos estén detectados",
+    "display_adap": ["Descripción:", "Versión:", "Fecha:", "Información del Adaptador de Pantalla:"],
+    "display_adap_tooltip": "Información de la tarjeta gráfica.\nAsegúrese de que los controladores recientes estén instalados.",
+    "nvidia_button": "Abrir NVIDIA",
+    "nvidia_button_tooltip": "Abrir la página web de NVIDIA. \nSeleccione controladores para la \ntarjeta gráfica designada.",
+    "firewall_status": ["Perfil:", "Estado:", "Estado del Firewall:"],
+    "firewall_tooltip": "Asegúrese de que los firewalls estén desactivados.\nPuede obstaculizar el proceso de exploración ",
+    "firewall_button": "Abrir Firewalls",
+    "firewall_button_tooltip": "Ábralo y cambie la configuración del Firewall si es necesario.",
+    "quick_scan": "Escaneo del Programa:\n\n",
+    "quick_scan_tooltip": "Desinstale el antivirus y VPN. \nPuede obstaculizar la exploración y la detección de dispositivos.",
+    "refresh_button": "Actualizar Información de la PC",
+    "refresh_button_tooltip": "Actualice la información de la PC después de que ocurran cambios.",
+  
+    "software_gui": "Verificación del Software Shining3D",
+  
+    "support_gui": "Soporte Shining3D"
+    },
+    
+    "简体中文": {
+            "Gui_Header": "Shining3D 系统检查",
+            "windows_info": ["PC 操作系统信息：\n", "\n版本号：\n"],
+            "windows_info_tooltip": "建议使用 Windows 10/11 专业版\n安装最新的 Windows 更新",
+            "update_button": "打开 Windows 更新",
+            "update_button_tooltip": "点击打开更新页面。\n安装最新的更新",
+            "proc_info": "处理器信息：\n",
+            "proc_info_tooltip": "确保处理器能够运行软件",
+            "storage_info": ["存储信息：\n总空间：", "剩余空间："],
+            "storage_info_tooltip": "显示 C: 驱动器上的已用和可用空间。",
+            "ram_info": "RAM 信息：\n大小：",
+            "ram_info_tooltip": "确保 RAM 大小足以运行软件",
+            "power_plan_button": "打开电源计划",
+            "power_plan_tooltip": "确保设置经过优化以进行扫描",
+            "device_manager_button": "打开设备管理器",
+            "device_manager_tooltip": "打开以确保设备被检测到",
+            "display_adap": ["描述：", "版本：", "日期：", "显示适配器信息："],
+            "display_adap_tooltip": "显卡信息。\n确保安装了最新的驱动程序。",
+            "nvidia_button": "打开 NVIDIA",
+            "nvidia_button_tooltip": "打开 NVIDIA 网页。\n选择专用显卡的驱动程序。",
+            "firewall_status": ["配置文件：", "状态：", "防火墙状态："],
+            "firewall_tooltip": "确保防火墙已关闭。\n可能会阻碍扫描过程",
+            "firewall_button": "打开防火墙",
+            "firewall_button_tooltip": "如有需要，打开并更改防火墙设置。",
+            "quick_scan": "程序扫描：\n\n",
+            "quick_scan_tooltip": "卸载防病毒软件和 VPN。\n可能会阻碍扫描和设备检测。",
+            "refresh_button": "刷新 PC 信息",
+            "refresh_button_tooltip": "在发生更改后刷新 PC 信息。",
+        
+            "software_gui": "Shining3D 软件检查",
+        
+            "support_gui": "Shining3D 支持"
+        }
+        
+        ,
+    
+    "繁體中文": {
+        "Gui_Header": "Shining3D 系統檢查",
+        "windows_info":["PC 作業系統資訊:\nWindows 作業系統:\n ", "\n版本號碼:\n "],
+        "windows_info_tooltip": "建議使用 Windows 10/11 Pro \n安裝最新的 Windows 更新",
+        "update_button":"開啟 Windows 更新",
+        "update_button_tooltip":"點擊開啟更新頁面。 \n安裝最新的更新",
+        "proc_info":"處理器資訊:\n",
+        "proc_info_tooltip":"確保處理器能夠運行該軟體",
+        "storage_info":["儲存資訊:\n總空間: ","剩餘空間: "],
+        "storage_info_tooltip":"顯示 C: 驅動器上的已使用和剩餘空間。",
+        "ram_info":"RAM 資訊:\n大小: ",
+        "ram_info_tooltip":"確保 RAM 大小足以運行軟體",
+        "power_plan_button":"開啟電源計畫",
+        "power_plan_tooltip":"確保設置為掃描優化",
+        "device_manager_button":"開啟裝置管理員",
+        "device_manager_tooltip":"開啟以確保檢測到的設備",
+        "display_adap":"顯示適配器資訊:",
+        "display_adap_tooltip":"顯示卡信息。\n確保安裝了最新的驅動程式。",
+        "nvidia_button":"開啟 NVIDIA",
+        "nvidia_button_tooltip":"開啟 NVIDIA 網頁。 \n為指定的顯示卡選擇驅動程式。",
+        "firewall_status":["配置文件:","狀態:","防火牆狀態:"],
+        "firewall_tooltip":"確保防火牆已關閉。\n可能阻礙掃描過程",
+        "firewall_button":"開啟防火牆",
+        "firewall_button_tooltip":"如果需要，開啟並更改防火牆設置。",
+        "antivirus_status":"程序掃描:\n\n",
+        "antivirus_status_tooltip":"卸載防病毒和 VPN。 \n可能阻礙掃描和設備檢測。",
+        "refresh_button":"刷新 PC 資訊",
+        "refresh_button_tooltip":"在發生變更後刷新 PC 資訊。"
+    },
+
+
+    "Français": {
+    "Gui_Header": "Vérification du Système Shining3D",
+    "windows_info":["Informations sur le système d'exploitation de l'ordinateur:\nSystème d'exploitation Windows:\n ", "\nNuméro de Version:\n "],
+    "windows_info_tooltip": "Il est recommandé d'utiliser Windows 10/11 Pro \nInstallez les dernières mises à jour de Windows",
+    "update_button":"Ouvrir les Mises à Jour Windows",
+    "update_button_tooltip":"Cliquez pour ouvrir la page des mises à jour. \nInstallez les dernières mises à jour",
+    "proc_info":"Informations sur le Processeur:\n",
+    "proc_info_tooltip":"Assurez-vous que le processeur est capable d'exécuter le logiciel",
+    "storage_info":["Informations sur le Stockage:\nEspace Total: ","Espace Libre: "],
+    "storage_info_tooltip":"Affiche l'espace utilisé et libre disponible sur le lecteur C:.",
+    "ram_info":"Informations sur la RAM:\nTaille: ",
+    "ram_info_tooltip":"Assurez-vous que la taille de la RAM est suffisante pour exécuter le logiciel",
+    "power_plan_button":"Ouvrir les Options d'Alimentation",
+    "power_plan_tooltip":"Assurez-vous que les paramètres sont optimisés pour la numérisation",
+    "device_manager_button":"Ouvrir le Gestionnaire de Périphériques",
+    "device_manager_tooltip":"Ouvrir pour s'assurer que les périphériques sont détectés",
+    "display_adap":"Informations sur l'Adaptateur d'Affichage:",
+    "display_adap_tooltip":"Informations sur la carte graphique.\nAssurez-vous que les pilotes les plus récents sont installés.",
+    "nvidia_button":"Ouvrir NVIDIA",
+    "nvidia_button_tooltip":"Ouvrir la page web de NVIDIA. \nSélectionnez les pilotes pour la \ncarte graphique désignée.",
+    "firewall_status":["Profil:","État:","État du Pare-feu:"],
+    "firewall_tooltip":"Assurez-vous que les pare-feu sont désactivés.\nIls peuvent entraver le processus de numérisation",
+    "firewall_button":"Ouvrir les Pare-feu",
+    "firewall_button_tooltip":"Ouvrez et modifiez les paramètres du pare-feu si nécessaire.",
+    "antivirus_status":"Analyse du Programme:\n\n",
+    "antivirus_status_tooltip":"Désinstallez l'antivirus et le VPN. \nIls peuvent entraver la numérisation et la détection des périphériques.",
+    "refresh_button":"Actualiser les Informations de l'Ordinateur",
+    "refresh_button_tooltip":"Actualisez les informations de l'ordinateur après les changements."
+
+
+
+    }
+
+
+
+
+
+
+}
