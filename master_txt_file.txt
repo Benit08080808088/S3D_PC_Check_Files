@@ -1,1 +1,3 @@
-wazzup
+s3d_software_versions.json
+sw_check.json
+url_links.json
